@@ -10,9 +10,6 @@ body {
 	flex-direction: column;
 	justify-content: space-between;
 	align-items: center;
-	border-top: 20px solid black;
-	border-left: 20px solid black;
-	border-right: 20px solid black;
 }
 
 #title {
