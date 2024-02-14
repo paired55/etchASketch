@@ -10,6 +10,7 @@ body {
 	flex-direction: column;
 	justify-content: space-between;
 	align-items: center;
+	border: 20px solid black;
 }
 
 #title {
@@ -91,7 +92,7 @@ a:hover {
 	justify-content: space-around;
 	align-items: center;
 	padding: 2rem;
-	margin-bottom: 50px;
+	margin-bottom: 30px;
 	gap: 2rem;
 }
 
