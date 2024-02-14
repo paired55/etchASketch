@@ -1,1 +1,3 @@
-# etchASketch
+# Etch-a-Sketch
+
+Sketchbook Project.
